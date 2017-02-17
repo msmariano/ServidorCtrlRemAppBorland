@@ -1,0 +1,29 @@
+
+14/08/2015 17:22:21: Connectado COM3
+14/08/2015 17:31:34 :Enviando comando para abrir portão!
+14/08/2015 17:31:34 :act=On;id=ID:359294056383413
+
+14/08/2015 17:31:38 :Enviando comando para abrir portão!
+14/08/2015 17:31:38 :act=On;id=ID:359294056383413
+
+14/08/2015 17:31:41 :Enviando comando para abrir portão!
+14/08/2015 17:31:41 :act=On;id=ID:359294056383413
+
+14/08/2015 20:25:33 :Enviando comando para abrir portão!
+14/08/2015 20:25:33 :act=On;id=ID:355485067743538
+
+14/08/2015 20:25:36 :Enviando comando para abrir portão!
+14/08/2015 20:25:36 :act=On;id=ID:355485067743538
+
+14/08/2015 20:25:38 :Enviando comando para abrir portão!
+14/08/2015 20:25:38 :act=On;id=ID:355485067743538
+
+14/08/2015 20:37:51 :Enviando comando para abrir portão!
+14/08/2015 20:37:51 :act=On;id=ID:355485067743538
+
+14/08/2015 20:37:54 :Enviando comando para abrir portão!
+14/08/2015 20:37:54 :act=On;id=ID:355485067743538
+
+14/08/2015 20:37:56 :Enviando comando para abrir portão!
+14/08/2015 20:37:56 :act=On;id=ID:355485067743538
+
